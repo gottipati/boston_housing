@@ -21,7 +21,7 @@ This project uses the following software and Python libraries:
 - [matplotlib](http://matplotlib.org/)
 
 
-This project contains three files:
+This project contains four files:
 
 - `boston_housing.ipynb`: This is the main file where all the code is written to predict the accurate housing price in Boston.
 -  `report.html`: This file is HTML representation of actual code and easy to access through web browser
